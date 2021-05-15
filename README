@@ -1,0 +1,6 @@
+This repository contains extra type definitions for mypy covering
+	psycopg2
+	psycopg2.extensions
+and
+	PyQt5.QtCore
+
